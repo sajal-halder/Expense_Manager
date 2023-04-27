@@ -18,6 +18,10 @@ A simple Expense Manger java web application that takes expense information and 
 
 ![ss8](https://user-images.githubusercontent.com/130422821/234629555-1d625741-f3b1-4bf2-a83f-5b79ee623c6a.png)
 
+#Uml Diagram
+![uml](https://user-images.githubusercontent.com/130422821/234762747-eae28857-34f6-4e97-aca7-ae049994ca81.png)
+
+
 ```
 Using ExpenseServelet's doPost to inset data into databse when from jsp form action when submit button is pressed
 ```
